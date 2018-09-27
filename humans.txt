@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Archer archer@gmail.com @archer
 
 # THANKS
 
